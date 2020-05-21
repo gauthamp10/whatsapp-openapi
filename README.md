@@ -1,14 +1,14 @@
 # whatsapp-openapi
 
-A dead simple form for automating the process of sending messages without having to save contact using whatsapp open api.
+A dead simple form for automating the process of sending messages without having to save contact using *whatsapp open api.*
 
 Built using HTML Form.
 
-Useful solution for Android/Iphone/Whatsapp Web.
+**Useful solution for Android/Iphone/Whatsapp Web.**
 
 See it in action : [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/whatsapp)
 
-Sample Screenshots:
+**Sample Screenshots:**
 
 ![Mobile](https://imgur.com/DH2UZN9.png)
 
