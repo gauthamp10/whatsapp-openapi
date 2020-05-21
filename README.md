@@ -1,6 +1,6 @@
 # whatsapp-openapi
 
-A dead simple form for automating the process ofs ending messages without having to save contact using whatsapp open api.
+A dead simple form for automating the process of sending messages without having to save contact using whatsapp open api.
 
 Built using HTML Form.
 
