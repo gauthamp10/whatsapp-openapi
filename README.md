@@ -17,6 +17,7 @@ See it in action : [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/
 ### Privacy Notice
  The webpage [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/whatsapp) is served from index.html of [gauthamp10/whatsapp](https://github.com/gauthamp10/gauthamp10.github.io/tree/master/whatsapp) repo and the code is purely client side, so nothing to worry about data privacy.
 
+[![HitCount](http://hits.dwyl.com/gauthamp10/musicbot.svg)](http://hits.dwyl.com/gauthamp10/musicbot)
 
 ### Author
 
