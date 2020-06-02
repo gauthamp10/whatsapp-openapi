@@ -1,5 +1,7 @@
 # whatsapp-openapi
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gauthamp10.whatsapp-openapi)
+
 A dead simple form for automating the process of sending messages without having to save contact using *whatsapp open api.*
 
 Built using HTML Form.
