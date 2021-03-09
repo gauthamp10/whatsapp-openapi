@@ -8,7 +8,7 @@ Built using HTML Form.
 
 **Useful solution for Android/Iphone/Whatsapp Web.**
 
-See it in action : [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/whatsapp)
+See it in action : [https://whatsappdirect.netlify.app/](https://whatsappdirect.netlify.app/)
 
 **Sample Screenshots:**
 
@@ -17,7 +17,7 @@ See it in action : [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/
 ![Desktop](https://imgur.com/yrn1HL9.png)
 
 ### Privacy Notice
- The webpage [gauthamp10.github.io/whatsapp](https://gauthamp10.github.io/whatsapp) is served from index.html of [gauthamp10/whatsapp](https://github.com/gauthamp10/gauthamp10.github.io/tree/master/whatsapp) repo and the code is purely client side, so nothing to worry about data privacy.
+ The webpage [https://whatsappdirect.netlify.app/](https://whatsappdirect.netlify.app/) is served from index.html of [gauthamp10/whatsapp](https://github.com/gauthamp10/gauthamp10.github.io/tree/master/whatsapp) repo and the code is purely client side, so nothing to worry about data privacy.
 
 [![HitCount](http://hits.dwyl.com/gauthamp10/whatsapp-openapi.svg)](http://hits.dwyl.com/gauthamp10/whatsapp-openapi)
 
