@@ -17,7 +17,7 @@ See it in action : [https://whatsappdirect.netlify.app/](https://whatsappdirect.
 ![Desktop](https://imgur.com/yrn1HL9.png)
 
 ### Privacy Notice
- The webpage [https://whatsappdirect.netlify.app/](https://whatsappdirect.netlify.app/) is served from index.html of [gauthamp10/whatsapp](https://github.com/gauthamp10/gauthamp10.github.io/tree/master/whatsapp) repo and the code is purely client side, so nothing to worry about data privacy.
+ The webpage [https://whatsappdirect.netlify.app/](https://whatsappdirect.netlify.app/) is served from index.html of [gauthamp10/whatsapp-openapi](https://github.com/gauthamp10/whatsapp-openapi) repo and the code is purely client side, so nothing to worry about data privacy.
 
 [![HitCount](http://hits.dwyl.com/gauthamp10/whatsapp-openapi.svg)](http://hits.dwyl.com/gauthamp10/whatsapp-openapi)
 
